@@ -2,8 +2,8 @@ __pycache__/
 *.pyc
 .DS_Store
 
-data/raw/*
-data/processed/*
+data/raw/
+data/processed/
 results/samples/
 
 .ipynb_checkpoints/
