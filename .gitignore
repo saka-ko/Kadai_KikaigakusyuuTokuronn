@@ -5,6 +5,7 @@ __pycache__/
 data/raw/*
 data/processed/*
 
+.venv/
 
 results/samples/*
 
