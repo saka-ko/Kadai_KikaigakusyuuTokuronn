@@ -8,5 +8,7 @@ data/processed/*
 .venv/
 
 results/samples/*
+results/tables/*
+results/figures/*
 
 .ipynb_checkpoints/
