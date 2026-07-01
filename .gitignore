@@ -12,3 +12,5 @@ results/tables/*
 results/figures/*
 
 .ipynb_checkpoints/
+
+.vscode/
