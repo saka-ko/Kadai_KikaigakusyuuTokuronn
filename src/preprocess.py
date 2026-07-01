@@ -93,7 +93,7 @@ def build_race_features(result_df: pd.DataFrame) -> pd.DataFrame:
         np.log(sum_inv) - (sum_inv_log_inv / sum_inv)
     ).rename("odds_entropy")
 
-    # 勝ち馬の人気・単勝オッズ
+    # 勝ち馬
     winner = (
         result_df[result_df["着順"] == 1]
         .sort_values(["レースID", "馬番"])
