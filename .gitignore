@@ -14,3 +14,5 @@ results/figures/*
 .ipynb_checkpoints/
 
 .vscode/
+
+under10_analysis
